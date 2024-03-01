@@ -5,3 +5,7 @@ Type option
 colours
 Dark mode
 video calss
+
+pyment option
+send money
+recive money
